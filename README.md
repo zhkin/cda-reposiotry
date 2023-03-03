@@ -6,10 +6,10 @@
 
 ![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/22.png)
 
-![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/33.png)
+![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/33.jpg)
 
-![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/44.png)
+![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/44.jpg)
 
-![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/55.png)
+![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/55.jpg)
 
-![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/66.png)
+![image](https://raw.githubusercontent.com/zhkin/cda-reposiotry/main/66.jpg)
