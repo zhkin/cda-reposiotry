@@ -3,9 +3,9 @@
 # 图片打不开 请开代理
 医疗互联互通 CDA HL7 V3 电子病历 共享文档
 
-![image](1.png)
+![image](1.jpg)
 
-![image](2.png)
+![image](2.jpg)
 
 ![image](3.jpg)
 
